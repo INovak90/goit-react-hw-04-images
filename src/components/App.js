@@ -8,7 +8,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const ERROR_MSG = {
   notFound:
-    'Sorry, there are no images matching your search query. Please try again.',
+    'Sorry, there are no images matching your search query. Please try again!',
   breaking: 'Something went wrong, please reload the page.',
 };
 
